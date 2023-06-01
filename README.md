@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
    :mailbox:How to reach me: 
   
-  [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Martínez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-martínez-pérez/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Martínez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danmarttech/)
   
   danieljmp07@gmail.com
 
